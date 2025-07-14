@@ -1,1 +1,1 @@
-krishnas2026143/simple-pythoi
+print("i am krishna")
